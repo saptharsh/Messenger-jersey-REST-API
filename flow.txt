@@ -1,0 +1,11 @@
+11. Setting Up
+12. Understanding the Application Structure
+13. Creating a Resource
+14. Returning XML Response
+15. Installing REST API Client
+16. Building Service Stubs
+17. Accessing Path Parameters
+18. Returning JSON Response
+19. Implementing POST
+20. Implementing Update and Delete
+21. Implementing ProfileResource  
